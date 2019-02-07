@@ -1,0 +1,84 @@
+body {
+	font-family: "sans-serif";
+	background-color: #ffffff;
+	background-image: url("images/bggg.png");
+}
+a:hover{
+	color: #00FA9A;
+}
+.gray {
+	background-color: #778899;
+	margin: 0;
+}
+
+.black {
+	margin: 0;
+	background-color: #AFEEEE;
+}
+
+#nav{
+	display: inline-block;
+
+}
+
+#me{
+	text-align: center;
+}
+
+#header{
+	background-color: #66CCFF;
+	text-align: center;
+	color: white;
+}
+
+#content{
+	margin: 0 auto;
+	width: 75%;
+}
+#hobbies{
+	background-color: #FFF0F5;
+  	width: 300px;
+  	float:left;
+  	padding: 25px;
+  	margin: 25px;
+  	height: 185px;
+
+}
+
+#albums{
+	background-color: #F0FFF0;
+  	width: 300px;
+ 	float:right;
+  	padding: 25px;
+  	margin: 25px;
+}
+
+#education{
+	float:left;
+	background-color: #E6E6FA;
+  
+  	padding: 25px;
+  	margin: 25px;
+  	width: 600px;
+}
+
+#employment{
+	background-color: #B0C4DE;
+  	
+  	padding: 25px;
+  	margin: 25px;
+  	float:right;
+  	width: 600px;
+}
+
+#quote{
+	display: inline-block;
+	background-color: #FFE4E1;
+	float: left;
+	padding: 15px;
+	width: 550px;
+}
+.redbold{
+	color: red;
+	font-weight: bold;
+}
